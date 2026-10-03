@@ -1,0 +1,44 @@
+{
+  "id": "/hygg/",
+  "name": "TS Personal OS",
+  "short_name": "TS",
+  "description": "TS \u2014 your personal operating system for today, life, study, money and goals.",
+  "start_url": "/hygg/",
+  "scope": "/hygg/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "productivity",
+    "lifestyle",
+    "utilities"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/hygg/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hygg/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hygg/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
